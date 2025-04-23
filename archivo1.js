@@ -1,1 +1,1 @@
-archivo js1
+console.log("hola git")
